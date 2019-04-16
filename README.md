@@ -1,2 +1,2 @@
 # DNS-versio-to-OVH
-Copy your Versio DNS records to a text in a browser so you can copy paste to OVH DNS text editor
+Display your Versio DNS records in a browser window (text format) so you can copy paste to the OVH DNS text editor.
